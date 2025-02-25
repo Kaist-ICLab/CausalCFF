@@ -7,15 +7,14 @@
 2. [Paper Summary](#paper-summary)
 3. [Repository Overview](#repository-overview)
 4. [Data Description](#data-description)
-5. [Usage Instructions](#usage-instructions)
-6. [Code Structure & Workflow](#code-structure--workflow)
+5. [Code Structure & Workflow](#code-structure--workflow)
     1. [Exploratory Data Analysis](#1-exploratory-data-analysis-eda)
     2. [Feature Engineering](#2-feature-engineering)
     3. [Data Resampling](#3-data-resampling)
     4. [Rule Generation & Feature Extraction](#4-rule-generation--feature-extraction)
     5. [Aggregation & Normalization](#5-aggregation--normalization)
-7. [Results](#results)
-8. [How to Cite](#how-to-cite)
+6. [Results](#results)
+7. [How to Cite](#how-to-cite)
 
 ---
 
@@ -58,28 +57,6 @@ You can use this code to replicate the entire pipeline—from data preparation t
   - **Self-Reported Stress**: 5-point Likert scale.
 
 > **Note**: This repository assumes you already have access to the dataset in the correct format (e.g., `combined.csv`, `proc_interpretable_updated.pkl`). For privacy and licensing reasons, the dataset may not be included in this repository. Please refer to the dataset’s license and usage conditions.
-
----
-
-## Usage Instructions
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/YourUsername/CausalCFF.git
-   cd CausalCFF
-   ```
-2. **Install Dependencies:**  
-   Make sure you have Python 3.7+ installed, then install required packages (listed in `requirements.txt`) using:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Prepare/Obtain the Data:**  
-   - Place your CSV and pickle files (e.g., `combined.csv`, `proc_interpretable_updated.pkl`) in the data directory (or update any path references in the code).
-4. **Run the Notebooks:**  
-   - Launch Jupyter Notebook or JupyterLab:
-     ```bash
-     jupyter notebook
-     ```
-   - Open and execute notebooks in the sequential order provided below.
 
 ---
 
