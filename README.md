@@ -50,13 +50,13 @@ You can use this code to replicate the entire pipeline—from data preparation t
 ---
 
 ## Data Description
-- **Original Dataset**: An open-source dataset with mobile sensor data and stress self-reports from 24 university students over six weeks.
+- **Original Dataset**: An open-source dataset with mobile sensor data and stress self-reports from 24 university students over six weeks (https://github.com/Kaist-ICLab/DeepStress_Dataset).
   - **GPS Data**: Categorized into home, work, or other places.
   - **Physical Activity**: Walking, running, sitting, etc.
   - **App Usage**: Grouped into categories like social media, productivity, entertainment.
   - **Self-Reported Stress**: 5-point Likert scale.
 
-> **Note**: This repository assumes you already have access to the dataset in the correct format (e.g., `combined.csv`, `proc_interpretable_updated.pkl`). For privacy and licensing reasons, the dataset may not be included in this repository. Please refer to the dataset’s license and usage conditions.
+> **Note**: This repository assumes you already have access to the dataset in the correct format (e.g., `combined.csv`, `proc_interpretable_updated.pkl`). For privacy and licensing reasons, the dataset may not be included in this repository. Please refer to the dataset’s license and usage conditions in the original dataset page.
 
 ---
 
