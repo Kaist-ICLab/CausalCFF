@@ -119,9 +119,7 @@ Upon successful execution of the notebooks, you will obtain:
 
 ## How to Cite
 ```
-Anonymous Author(s). 2025. CausalCFF: Causal Analysis between User Stress Level and Contextually Filtered Features Extracted from
-Mobile Sensor Data. In Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA ’25), April
-26–May 01, 2025, Yokohama, Japan. ACM, New York, NY, USA, 10 pages. https://doi.org/XXXXXXX.XXXXXXX
+Panyu Zhang, Gyuwon Jung, Uzair Ahmed, and Uichin Lee. 2025. Causal-CFF: Causal Analysis between User Stress Level and Contextually Filtered Features Extracted from Mobile Sensor Data. In Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA ’25), April 26–May 01, 2025, Yokohama, Japan. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3706599.3719776
 ```
 
 **Questions?**
